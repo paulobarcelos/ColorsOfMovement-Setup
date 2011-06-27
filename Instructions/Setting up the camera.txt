@@ -1,0 +1,12 @@
+SETTING UP UEYE CAMERA
+
+- Donwload install the latest Software Package from http://www.ids-imaging.com/drivers.php?cat=2
+
+- Run the uEye Camera manager.
+- Choose the network card (if you choose a card and get a message about DHP problems, choose another one)
+- Click the Automatic ETH configuration to set the IP.
+- Click on Camera Information, this will automatically update the firmware.
+
+This should be it!
+
+Run uEye Cockpit to test the camera!
