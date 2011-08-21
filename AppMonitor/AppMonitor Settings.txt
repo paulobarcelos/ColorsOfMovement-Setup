@@ -1,3 +1,6 @@
-C:\Users\Paulo Barcelos\Desktop\bin\colorsofmovement.exe
-C:\Users\Paulo Barcelos\Desktop\bin\colorsofmovement_timestamp.txt
-10000
+C:\Users\Paulo Barcelos\Desktop\bin\
+ColorsOfMovement.exe
+ColorsOfMovement
+GLUT
+data\timestamp.txt
+15000

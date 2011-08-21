@@ -5,6 +5,7 @@ SETTING UP UEYE CAMERA
 - Run the uEye Camera manager.
 - Choose the network card (if you choose a card and get a message about DHP problems, choose another one)
 - Click the Automatic ETH configuration to set the IP.
+- Click on Manual ETH Configuration, and then on the second "suggest" button, to set a persistent ID to the camera.
 - Click on Camera Information, this will automatically update the firmware.
 
 This should be it!

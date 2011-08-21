@@ -1,0 +1,3 @@
+DISABLE WINDOWS UPDATES
+Go to "Control Panel > System and Security > Windows Update > Change Settings"
+And choose "Never check for updates"

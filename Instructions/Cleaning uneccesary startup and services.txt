@@ -1,0 +1,4 @@
+DISABLE UNECCESARY STARTUP PROGRAMS AND SERVICES
+
+Go to Control Panel > System and Security > Administrative Tools > System Configuration
+And disable all uneccesary  services and startup programs
