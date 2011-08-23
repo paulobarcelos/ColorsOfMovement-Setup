@@ -1,4 +1,4 @@
-C:\Users\Paulo Barcelos\Desktop\bin\
+C:\Users\Paulo Barcelos\Desktop\ColorsOfMovement-Setup\bin\
 ColorsOfMovement.exe
 ColorsOfMovement
 GLUT
